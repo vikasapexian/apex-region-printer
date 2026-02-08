@@ -4,7 +4,7 @@ APEX Region Printer is a Dynamic Action plugin for Oracle APEX that allows you t
 
 It is designed for enterprise use cases such as invoices, reports, salary slips, and certificates, with support for images, colors, and multi-page content.
 
-![Preview]([https://raw.githubusercontent.com/www-smithchain-com/Apex-Font-Toggler/main/preview.gif](https://github.com/vikasapexian/apex-region-printer/blob/main/myFile08-02-2026_130937.gif))
+![Preview](https://github.com/vikasapexian/apex-region-printer/blob/main/myFile08-02-2026_130937.gif?raw=true)
 ## Features
 
 - Print any Oracle APEX region or HTML container
