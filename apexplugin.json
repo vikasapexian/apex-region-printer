@@ -18,8 +18,8 @@
   "author": {
     "name": "Vikas Pandey",
     "email": "vikaspandey641@gmail.com",
-	"URL" : "https://www.vikasapexian.com/",
-    "Blog URL": "https://blogs.ontoorsolutions.com/",
+	"url": "https://www.vikasapexian.com/",
+    "url": "https://blogs.ontoorsolutions.com/",
     "twitter": "@smith121266"
   },
   "repository": {
@@ -51,3 +51,4 @@
     }
   }
 }
+
