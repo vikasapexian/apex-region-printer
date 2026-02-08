@@ -1,0 +1,53 @@
+{
+  "name": "APEX Region Printer",
+  "version": "1.0.0",
+  "description": "APEX Region Printer plugin for Oracle APEX.\r\n<h4>Free Plug-in under MIT License</h4>\r\nThis plugin is free for use under the MIT license.\r\n</p>\r\n<h4>Overview</h4>\r\n<p><strong>APEX Region Printer</strong> is a Dynamic Action plugin that allows users to print a specific Oracle APEX region or HTML container instead of the entire page. It supports images, colors, and multi-page layouts, making it suitable for enterprise use cases such as invoices, reports, salary slips, and certificates.</p>",
+  "keywords": [
+    "APEX Region Printer",
+    "ORACLE APEX",
+    "PRINT",
+    "REGION PRINT",
+    "DYNAMIC ACTION PLUGIN"
+  ],
+  "homepage": "https://github.com/vikasapexian/apex-region-printer.git",
+  "bugs": {
+    "url": "https://github.com/vikasapexian/apex-region-printer/issues",
+    "email": "vikaspandey641@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Vikas Pandey",
+    "email": "vikaspandey641@gmail.com",
+	"URL" : "https://www.vikasapexian.com/",
+    "Blog URL": "https://blogs.ontoorsolutions.com/",
+    "twitter": "@smith121266"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikasapexian/apex-region-printer.git"
+  },
+  "oracle": {
+    "versions": [
+      "11.2.0.4",
+      "12.1.0.2",
+      "19.0.0.0.0"
+    ],
+    "apex": {
+      "versions": [
+        "19.1.0",
+        "19.2.0",
+        "20.2.0",
+        "21.1.0",
+        "22.2.0",
+        "23.1.0",
+        "24.1.0"
+      ],
+      "plugin": {
+        "internalName": "APEX_REGION_PRINTER",
+        "type": "dynamic action",
+        "demo": "https://github.com/vikasapexian/apex-region-printer",
+        "previewImage": "https://github.com/vikasapexian/apex-region-printer/raw/main/myFile08-02-2026_130937.gif?raw=true"
+      }
+    }
+  }
+}
