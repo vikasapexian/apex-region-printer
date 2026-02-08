@@ -52,8 +52,6 @@ Click the button to print only the selected region.
 
 ### About
 
-Author: Vikas Pandey
-Twitter: @Smith121266
-LinkedIn: linkedin.com/in/vikas-pandey-aba223120/
-  <p>Customer: ABC Pvt Ltd</p>
-</div>
+Author: Vikas Pandey   
+Twitter: @Smith121266   
+LinkedIn: linkedin.com/in/vikas-pandey-aba223120/  
