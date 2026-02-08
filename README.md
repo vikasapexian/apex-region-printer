@@ -46,6 +46,8 @@ It is designed for enterprise use cases such as invoices, reports, salary slips,
 
 Click the button to print only the selected region.
 
+![Demo](https://oracleapex.com/ords/r/ontoor/training/apex-region-printer?session=100111107980702)
+
 ---
 
 
